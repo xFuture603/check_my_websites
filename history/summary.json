@@ -1,20 +1,20 @@
 [
   {
-    "name": "private blog",
+    "name": "xFuture's blog",
     "url": "https://www.xfuture-blog.com",
     "icon": "https://favicons.githubusercontent.com/www.xfuture-blog.com",
-    "slug": "private-blog",
+    "slug": "x-future-s-blog",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1925,
-    "timeDay": 1925,
-    "timeWeek": 1925,
-    "timeMonth": 1925,
-    "timeYear": 1925,
+    "time": 1168,
+    "timeDay": 1168,
+    "timeWeek": 1168,
+    "timeMonth": 1168,
+    "timeYear": 1168,
     "dailyMinutesDown": {}
   }
 ]
