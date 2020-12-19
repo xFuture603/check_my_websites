@@ -5,4 +5,6 @@ repo: check_my_websites
 # Add your sites here
 sites:
   - name: xFuture's blog
-    url: https://www.xfuture-blog.com
+    url: $PRIVATE_BLOG
+  - name: xFuture's cloud
+    url: $PRIVATE_NEXTCLOUD
