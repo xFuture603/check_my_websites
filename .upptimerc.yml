@@ -4,5 +4,5 @@ repo: check_my_websites
 
 # Add your sites here
 sites:
-  - name: private blog
+  - name: xFuture's blog
     url: https://www.xfuture-blog.com
