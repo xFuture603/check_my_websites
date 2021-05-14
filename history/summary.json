@@ -4,9 +4,9 @@
     "url": "$PRIVATE_BLOG",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "x-future-s-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.53%",
@@ -16,6 +16,7 @@
     "timeMonth": 742,
     "timeYear": 1077,
     "dailyMinutesDown": {
+      "2021-05-14": 0,
       "2021-02-25": 474,
       "2021-02-24": 514
     }
