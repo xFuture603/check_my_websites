@@ -27,7 +27,7 @@
     "url": "$PRIVATE_NEXTCLOUD",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "x-future-s-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
     "uptimeDay": "96.36%",
     "uptimeWeek": "99.48%",
